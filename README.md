@@ -13,7 +13,7 @@
 
 # 🚀 Quick start
 
-If you're new to Moralis, check the [quickstart guide in the official docs](https://docs.moralis.io/docs/quickstart) on how to get started.
+If you're new to Moralis, check the [quickstart guide in the official docs](https://docs.moralis.com/web3-data-api/evm/getting-started) on how to get started.
 
 ## 1. Install Moralis Analytics
 
